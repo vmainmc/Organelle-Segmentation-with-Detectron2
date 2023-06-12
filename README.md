@@ -8,7 +8,7 @@ Veri seti hücre içi resimlerden oluşuyor. Hücre içerisindeki mitokondrileri
 
 ![testing-011](https://github.com/vmainmc/Organelle-Segmentation-with-Detectron2/assets/63164307/327e8d25-89e0-4773-b114-5ef492f6ea79)
 
-%96 lık bir accuracy ve %70 lik bir jaccard değeri elde edild.(Jaccard değeri segmentasyon maskelerinin alanlarının kesişim oranından elde edilen bir doğruluk metriği)
+%96 lık bir accuracy ve %81 lik bir jaccard değeri elde edild.(Jaccard değeri segmentasyon maskelerinin alanlarının kesişim oranından elde edilen bir doğruluk metriği)
 
 ![projeçıktısı](https://github.com/vmainmc/Organelle-Segmentation-with-Detectron2/assets/63164307/813066b7-dc0e-4346-97df-8194a2b1c1ad)
 
